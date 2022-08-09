@@ -1,5 +1,5 @@
 function getFooterCurrentDate() {
-const constFooterCurrentDate = new Date();
+  const constFooterCurrentDate = new Date();
   document.getElementById("footerCurrentDate").innerHTML = constFooterCurrentDate.getFullYear();
 };
 
