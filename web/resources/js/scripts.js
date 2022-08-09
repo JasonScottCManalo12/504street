@@ -3,4 +3,4 @@ function getFooterCurrentDate() {
   document.getElementById("footerCurrentDate").innerHTML = constFooterCurrentDate.getFullYear();
 };
 
-getFooterCurrentDate();
+getFooterCurrentDate(); 
