@@ -8,6 +8,11 @@
 ### Google
 &emsp; [https://www.google.com/](https://www.google.com/)
 
+### U.S. Department of Education
+&emsp; [https://www2.ed.gov/](https://www2.ed.gov/) <br/>
+&emsp; &emsp; [Structure of U.S. Education](https://www2.ed.gov/about/offices/list/ous/international/usnei/us/edlite-structure-us.html) <br/>
+&emsp; &emsp; &emsp; &emsp; associate, bachelor, first professional, master, advanced intermediate, and research doctorate
+
 ### Youtube
 &emsp; [https://www.youtube.com/](https://www.youtube.com/) <br/>
 #### &emsp; &emsp; CHANNELS <br/>
