@@ -1,2 +1,2 @@
 # Galleries, Libraries, Archives, Museums 
-##(Cultural Heritage)
+## Cultural Heritage
