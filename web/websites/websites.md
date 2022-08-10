@@ -1,7 +1,7 @@
 ### Google
-&emsp; google.com
+&emsp; [https://www.google.com/](https://www.google.com/)
 
 ### Youtube
-&emsp; [youtube.com](youtube.com) <br/>
+&emsp; [https://www.youtube.com/](https://www.youtube.com/) <br/>
 #### &emsp; &emsp; CHANNELS <br/>
 &emsp; &emsp; &emsp; &emsp; ABC1234
