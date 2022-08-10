@@ -14,20 +14,20 @@
 
 ### Republic of the Philippines
 &emsp; [https://www.gov.ph/](https://www.gov.ph/) <br/>
-&emsp; &emsp; &emsp; [Philippine Post Office](https://phlpost.gov.ph/) <br/>
-&emsp; &emsp; &emsp; &emsp; [Press Release](https://phlpost.gov.ph/press-release/) <br/>
-&emsp; &emsp; &emsp; [Department of Budget and Management](https://www.dbm.gov.ph/) <br/>
-&emsp; &emsp; &emsp; &emsp; [Goverment Procurement Policy Board](https://www.gppb.gov.ph/) <br/>
-&emsp; &emsp; &emsp; &emsp; &emsp; [Executive Issuances](https://www.gppb.gov.ph/executiveissuances.php) <br/>
-&emsp; &emsp; &emsp; [Department of Education](https://www.deped.gov.ph/) <br/>
-&emsp; &emsp; &emsp; &emsp; [Alternative Learning System 2.0](https://www.deped.gov.ph/alternative-learning-system/) <br/>
-&emsp; &emsp; &emsp; &emsp; &emsp; [About the Program](https://www.deped.gov.ph/about-als/#:~:text=The%20Alternative%20Learning%20System%20(ALS,pathways%20to%20complete%20basic%20education.)) <br/>
-&emsp; &emsp; &emsp; &emsp; [K to 12 Basic Education Curriculum](https://www.deped.gov.ph/k-to-12/about/k-to-12-basic-education-curriculum/) <br/>
-&emsp; &emsp; &emsp; [Department of Labor and Employment](https://www.dole.gov.ph/) <br/>
-&emsp; &emsp; &emsp; &emsp; [National Wages and Productivity Commission](https://nwpc.dole.gov.ph/) <br/>
-&emsp; &emsp; &emsp; &emsp; &emsp; [Issuances](https://nwpc.dole.gov.ph/issuances) <br/>
-&emsp; &emsp; &emsp; [Office of the Press Secretary](https://ops.gov.ph/) <br/>
-&emsp; &emsp; &emsp; &emsp; [Executive Issuances](https://ops.gov.ph/documents-issuances/)
+&emsp; &emsp; [Philippine Post Office](https://phlpost.gov.ph/) <br/>
+&emsp; &emsp; &emsp; [Press Release](https://phlpost.gov.ph/press-release/) <br/>
+&emsp; &emsp; [Department of Budget and Management](https://www.dbm.gov.ph/) <br/>
+&emsp; &emsp; &emsp; [Goverment Procurement Policy Board](https://www.gppb.gov.ph/) <br/>
+&emsp; &emsp; &emsp; &emsp; [Executive Issuances](https://www.gppb.gov.ph/executiveissuances.php) <br/>
+&emsp; &emsp; [Department of Education](https://www.deped.gov.ph/) <br/>
+&emsp; &emsp; &emsp; [Alternative Learning System 2.0](https://www.deped.gov.ph/alternative-learning-system/) <br/>
+&emsp; &emsp; &emsp; &emsp; [About the Program](https://www.deped.gov.ph/about-als/#:~:text=The%20Alternative%20Learning%20System%20(ALS,pathways%20to%20complete%20basic%20education.)) <br/>
+&emsp; &emsp; &emsp; [K to 12 Basic Education Curriculum](https://www.deped.gov.ph/k-to-12/about/k-to-12-basic-education-curriculum/) <br/>
+&emsp; &emsp; [Department of Labor and Employment](https://www.dole.gov.ph/) <br/>
+&emsp; &emsp; &emsp; [National Wages and Productivity Commission](https://nwpc.dole.gov.ph/) <br/>
+&emsp; &emsp; &emsp; &emsp; [Issuances](https://nwpc.dole.gov.ph/issuances) <br/>
+&emsp; &emsp; [Office of the Press Secretary](https://ops.gov.ph/) <br/>
+&emsp; &emsp; &emsp; [Executive Issuances](https://ops.gov.ph/documents-issuances/)
 
 ### U.S. Department of Education
 &emsp; [https://www2.ed.gov/](https://www2.ed.gov/) <br/>
