@@ -1,3 +1,7 @@
+### BallotPedia
+&emsp; [https://ballotpedia.org/Main_Page](https://ballotpedia.org/Main_Page) <br/>
+&emsp; &emsp; [Administrative State](https://ballotpedia.org/Administrative_state)
+
 ### Github
 &emsp; [https://github.com/](https://github.com/) <br/>
 &emsp; &emsp; GIST <br/>
