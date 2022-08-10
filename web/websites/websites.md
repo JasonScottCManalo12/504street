@@ -1,6 +1,6 @@
 ### Github
-&emsp; [https://github.com/](https://github.com/)
-&emsp; &emsp; GIST
+&emsp; [https://github.com/](https://github.com/) <br/>
+&emsp; &emsp; GIST <br/>
 &emsp; &emsp; &emsp; &emsp; [whitingx](https://gist.github.com/whitingx)
 
 
