@@ -216,7 +216,7 @@
 &emsp; &emsp; [Course Catalogs](https://lumenlearning.com/courses/) <br/>
 
 &emsp; **CourseHero** <br/>
-&emsp; &emsp; [](https://www.coursehero.com/study-guides/lumencollegesuccessxtraining3/) <br/>
+&emsp; &emsp; [College Success](https://www.coursehero.com/study-guides/lumencollegesuccessxtraining3/) <br/>
 
 
 
