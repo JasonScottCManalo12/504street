@@ -127,26 +127,67 @@
 &emsp; **International Women's Development Agency** <br/>
 &emsp; &emsp; [What is Feminism?](https://iwda.org.au/learn/what-is-feminism/#:~:text=So%20what%20does%20feminism%20mean,to%20realise%20their%20full%20rights.) <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
+### Ideology
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
+&emsp; **Encyclopædia Britannica** <br/>
+&emsp; &emsp; [Ideology](https://www.britannica.com/topic/ideology-society) <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
+&emsp; **Simplicable** <br/>
+&emsp; &emsp; [37 Examples of Ideology](https://simplicable.com/en/ideology) <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
+&emsp; **Academic Dictionaries and Encyclopedia** <br/>
+&emsp; &emsp; [List of political ideologies](https://en-academic.com/dic.nsf/enwiki/270595) <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
+&emsp; **StudySmarter** <br/>
+&emsp; &emsp; [Political Ideology](https://www.studysmarter.us/explanations/politics/political-ideology/) <br/>
+
+&emsp; **Wikipedia** <br/>
+&emsp; &emsp; [List of political ideologies](https://simple.wikipedia.org/wiki/List_of_political_ideologies) <br/>
+&emsp; &emsp; [Political ideologies in the United States](https://en.wikipedia.org/wiki/Political_ideologies_in_the_United_States) <br/>
+&emsp; &emsp; [List of political ideologies](https://en.wikipedia.org/wiki/List_of_political_ideologies) <br/>
+
+
+
+### Philosophy
+
+&emsp; **Wikibooks** <br/>
+&emsp; &emsp; [Introduction to Philosophy/The Branches of Philosophy](https://en.wikibooks.org/wiki/Introduction_to_Philosophy/The_Branches_of_Philosophy) <br/>
+
+&emsp; **Wikipedia** <br/>
+&emsp; &emsp; [Philosophy](https://en.wikipedia.org/wiki/Philosophy) <br/>
+
+&emsp; **Saint Francis University Library** <br/>
+&emsp; &emsp; [Philosophy](https://libguides.francis.edu/c.php?g=182116&p=1199424) <br/>
+
+&emsp; **Jeanet Maduro de Polanco** <br/>
+&emsp; &emsp; [The Five Branches of Philosophy](https://jeanetmadurodepolanco.net/the-five-branches-of-philosophy/) <br/>
+
+&emsp; **P.L.E.** <br/>
+&emsp; &emsp; [The Divisions and Definition of Philosophy Nature of Philosophy](https://philosophy.lander.edu/intro/what.shtml) <br/>
+
+&emsp; **Study.com** <br/>
+&emsp; &emsp; [Branches of Philosophy](https://study.com/academy/lesson/the-branches-of-philosophy.html) <br/>
+
+&emsp; **Leverage Edu** <br/>
+&emsp; &emsp; [Branches of Philosophy](https://leverageedu.com/blog/branches-of-philosophy/) <br/>
+
+&emsp; **College of Letters and Science** <br/>
+&emsp; &emsp; [What Do You Study in Philosophy?](https://uwm.edu/philosophy/what-do-you-study/) <br/>
+
+&emsp; **Quizlet** <br/>
+&emsp; &emsp; [Branches of Philosophy Overview & Examples](https://study.com/academy/lesson/the-branches-of-philosophy.html) <br/>
+
+&emsp; **The Advocate** <br/>
+&emsp; &emsp; [WHAT YOU NEED TO KNOW AS AN EDUCATOR: UNDERSTANDING THE 4 MAIN BRANCHES OF PHILOSOPHY](https://www.theedadvocate.org/need-know-education-understanding-4-main-branches-philosophy/#:~:text=The%20four%20main%20branches%20of%20philosophy%20are,epistemology%2C%20axiology%2C%20and%20logic.) <br/>
+
+
+
+### English Composition
+
+&emsp; **Lumen Learning** <br/>
+&emsp; &emsp; [English Composition 1](https://courses.lumenlearning.com/englishcomp1/) <br/>
 
 &emsp; **** <br/>
 &emsp; &emsp; []() <br/>
@@ -160,6 +201,47 @@
 
 &emsp; **Official Gazette** <br/>
 &emsp; &emsp; [Government Websites](https://www.officialgazette.gov.ph/lists/government-websites/) <br/>
+
+
+
+### 
+
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
 
 
 
