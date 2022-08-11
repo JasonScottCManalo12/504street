@@ -204,29 +204,40 @@
 
 
 
-### 
+### Course Catalogs
+
+&emsp; **Century College** <br/>
+&emsp; &emsp; [Course Catalogs & Course Outlines](https://www.century.edu/academics/course-catalogs) <br/>
+
+&emsp; **Liberty University** <br/>
+&emsp; &emsp; [Academic Course Catalogs](https://www.liberty.edu/academics/course-catalogs/) <br/>
+
+&emsp; **Lumen Learning** <br/>
+&emsp; &emsp; [Course Catalogs](https://lumenlearning.com/courses/) <br/>
+
+&emsp; **CourseHero** <br/>
+&emsp; &emsp; [](https://www.coursehero.com/study-guides/lumencollegesuccessxtraining3/) <br/>
 
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
+### Key Performance Indicators
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
+&emsp; **The Peak Performance Center** <br/>
+&emsp; &emsp; [Key Performance Indicators](https://thepeakperformancecenter.com/performance-dynamics/kpi/) <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
+### Turbo C
 
-&emsp; **** <br/>
-&emsp; &emsp; []() <br/>
+&emsp; **Software and Finance** <br/>
+&emsp; &emsp; [Turbo C](http://www.softwareandfinance.com/Turbo_C/Index.html) <br/>
+
+
+
+### COM Library Guides
+
+&emsp; **COM Library Guides** <br/>
+&emsp; &emsp; [libguides](https://libguides.com.edu/) <br/>
 
 &emsp; **** <br/>
 &emsp; &emsp; []() <br/>
