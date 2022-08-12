@@ -1,26 +1,26 @@
 # Education
 
 ### Montessori
-&emsp; Daycare
-&emsp; Nursery
-&emsp; Pre-School
-&emsp; Kindergarten
+&emsp; Daycare <br/>
+&emsp; Nursery <br/>
+&emsp; Pre-School <br/>
+&emsp; Kindergarten <br/>
 ### Elementary
-&emsp; Grade 1
-&emsp; Grade 2
-&emsp; Grade 3
-&emsp; Grade 4
-&emsp; Grade 5
-&emsp; Grade 6
+&emsp; Grade 1 <br/>
+&emsp; Grade 2 <br/>
+&emsp; Grade 3 <br/>
+&emsp; Grade 4 <br/>
+&emsp; Grade 5 <br/>
+&emsp; Grade 6 <br/>
 ### Secondary
-&emsp; Junior High School
-&emsp; &emsp; Grade 7
-&emsp; &emsp; Grade 8
-&emsp; &emsp; Grade 9
-&emsp; &emsp; Grade 10
-&emsp; Senior High School
-&emsp; &emsp; Grade 11
-&emsp; &emsp; Grade 12
+&emsp; Junior High School <br/>
+&emsp; &emsp; Grade 7 <br/>
+&emsp; &emsp; Grade 8 <br/>
+&emsp; &emsp; Grade 9 <br/>
+&emsp; &emsp; Grade 10 <br/>
+&emsp; Senior High School <br/>
+&emsp; &emsp; Grade 11 <br/>
+&emsp; &emsp; Grade 12 <br/>
 ### Tertiary
 &emsp; **Degrees**
 &emsp; &emsp; 
