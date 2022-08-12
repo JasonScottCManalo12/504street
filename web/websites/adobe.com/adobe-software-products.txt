@@ -1,0 +1,128 @@
+Adobe Software Products
+
+
+Creative Cloud All Apps
+	• Acrobat Pro
+	• Photoshop
+	• Illustrator
+	• InDesign
+	• Premiere Pro
+	• After Effects
+	• Lightroom
+	• XD
+	• Animate
+	• Lightroom Classic
+	• Dreamweaver
+	• Dimension
+	• Audition
+	• InCopy
+	• Character Animator
+	• Capture
+	• Fresco
+	• Bridge
+	• Creative Cloud Express
+	• Premiere Rush
+	• Photoshop Express
+	• Photoshop Camera
+	• Media Encoder
+	• Aero
+	• Scan
+	• Fill & Sign
+	• Acrobat Reader
+Acrobat Pro
+Photoshop
+Premiere Pro
+Illustrator
+Adobe Stock
+InDesign
+After Effects
+Lightroom (1TB)
+Premiere Rush
+Adobe XD
+Animate
+Dreamweaver
+Substance 3D Stager
+Substance 3D Painter
+Substance 3D Sampler
+Substance 3D Designer
+Audition
+InCopy
+Photoshop Camera
+Aero
+Photoshop Express
+Acrobat Pro DC
+Acrobat Standard DC
+Acrobat Reader DC
+Acrobat PDF Pack
+Acrobat Export PDF
+Acrobat Sign Solutions
+Acrobat Reader mobile app
+Fill & Sign
+Acrobat Sign Solutions
+Adobe Scan
+Acrobat Pro 2020
+Acrobat Standard 2020
+Customer Journey Analytics
+Commerce Cloud
+Experience Platform
+Campaign
+Experience Manager Forms
+Magento Commerce
+Journey Orchestration
+Cloud Service
+Target
+Experience Manager Assets
+Advertising Cloud
+Experience Manager
+Analytics
+Intelligent Services
+Experience Manager Sites
+Audience Manager
+Real-Time Customer Data Platform
+Marketo Engage
+Adobe Fresco
+Comp
+Creative Cloud for Enterprise
+Adobe Fonts
+Mixamo
+Character Animator
+Portfolio
+Capture
+Lightroom Classic
+Media Encoder
+Behance
+Bridge
+Captivate Prime
+Media Server 5 Professional
+Flex
+ColdFusion Enterprise (2021)
+ColdFusion on AWS
+Digital Editions
+XML Documentation for Adobe Experience Manager
+Captivate (2019)
+Photoshop Elements 2022 & Premiere Elements 2022
+Adobe Embedded Print Engine
+Photoshop Elements 2022
+Font Folio 11.1
+HTTP Dynamic Streaming
+RoboHelp Server
+Premiere Elements 2022
+Adobe PostScript
+Flash Media Playback
+Adobe PDF Print Engine
+Adobe Presenter Video Express
+RoboHelp
+FrameMaker Publishing Server (2019)
+Media Server on Amazon Web Services
+FrameMaker
+Design to Print
+Content Server
+Type
+Media Server Extended
+Media Server 5 Standard
+ColdFusion Builder (2018)
+InDesign Server
+Adobe Connect
+ColdFusion Standard (2021)
+Flash Player
+Technical Communication Suite
