@@ -5,4 +5,4 @@
 ### Tertiary
 ### Special Education
 ### Alternative Learning System
-### Bootcamps and Trade Skills
+### Bootcamps and Training Programs
