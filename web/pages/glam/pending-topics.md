@@ -239,6 +239,92 @@
 &emsp; **COM Library Guides** <br/>
 &emsp; &emsp; [libguides](https://libguides.com.edu/) <br/>
 
+
+
+### Academic Disciplines and Their College Departments
+
+&emsp; **stateuniversity.com** <br/>
+&emsp; &emsp; [Academic Disciplines](https://education.stateuniversity.com/pages/1723/Academic-Disciplines.html) <br/>
+
+&emsp; **Japan International Cooperation Agency** <br/>
+&emsp; &emsp; [List of Categories, Areas, Disciplines and Research Fields](https://www.jica.go.jp/english/countries/oceania/c8h0vm00009r53xl-att/annex5.pdf) <br/>
+
+&emsp; **National University of Life and Environmental Sciences Ukraine** <br/>
+&emsp; &emsp; [List of Academic Disciplines](https://nubip.edu.ua/en/node/8615) <br/>
+
+&emsp; **E-paranoids** <br/>
+&emsp; &emsp; [List of academic disciplines Guide, Meaning , Facts, Information and Description](http://www.e-paranoids.com/l/li/list_of_academic_disciplines.html) <br/>
+
+&emsp; **Lumen Learning** <br/>
+&emsp; &emsp; [Exploring Academic Disciplines](https://courses.lumenlearning.com/suny-jeffersoncc-styleguide/chapter/exploring-academic-disciplines/) <br/>
+
+&emsp; **Academic Dictionaries and Encyclopedias** <br/>
+&emsp; &emsp; [List of academic disciplines](https://en-academic.com/dic.nsf/enwiki/152269) <br/>
+
+&emsp; **Wikipedia** <br/>
+&emsp; &emsp; [Outline of academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines) <br/>
+
+&emsp; **Github** <br/>
+&emsp; &emsp; [3.1 Exploring Academic Disciplines](https://saylordotorg.github.io/text_handbook-for-writers/s07-01-exploring-academic-disciplines.html) <br/>
+
+&emsp; **Wikipedia** <br/>
+&emsp; &emsp; [Academic degree](https://en.wikipedia.org/wiki/Academic_degree) <br/>
+
+&emsp; **Wikipedia** <br/>
+&emsp; &emsp; [Academic department](https://en.wikipedia.org/wiki/Academic_department#:~:text=An%20academic%20department%20is%20a,usage%20at%20the%20university%20level.) <br/>
+
+&emsp; **University of Washington** <br/>
+&emsp; &emsp; [Academic departments](https://www.washington.edu/about/academics/departments/) <br/>
+
+&emsp; **Lehman College** <br/>
+&emsp; &emsp; [Schools, Departments, and Programs](https://www.lehman.edu/academics/departments-programs.php) <br/>
+
+&emsp; **The University of Oklahoma** <br/>
+&emsp; &emsp; [Academic Departments](https://www.ou.edu/web/resources_offices/content/academic_departments) <br/>
+
+&emsp; **Eastern Michigan University** <br/>
+&emsp; &emsp; [List of Academic Departments](https://www.emich.edu/registrar/documents/academic-department-list.pdf) <br/>
+
+&emsp; **Wikipedia** <br/>
+&emsp; &emsp; [Category:Academic administration](https://en.wikipedia.org/wiki/Category:Academic_administration) <br/>
+
+&emsp; **Wikipedia** <br/>
+&emsp; &emsp; [Category:University and college departments](https://en.wikipedia.org/wiki/Category:University_and_college_departments) <br/>
+
+&emsp; **Wikipedia** <br/>
+&emsp; &emsp; [Academic department](https://en.wikipedia.org/wiki/Academic_department) <br/>
+
+&emsp; **De La Salle University** <br/>
+&emsp; &emsp; [ACADEMIC DEPARTMENTS](https://www.dlsu.edu.ph/colleges/cla/academic-departments/) <br/>
+
+&emsp; **Columbia Unviversity in the City of New York** <br/>
+&emsp; &emsp; [List of Departments](https://www.columbia.edu/content/academics/departments) <br/>
+
+&emsp; **Stanford University** <br/>
+&emsp; &emsp; [Academic Departments](https://www.stanford.edu/list/academic/) <br/>
+
+&emsp; **Lamar University** <br/>
+&emsp; &emsp; [Lamar University Colleges and Departments](https://www.lamar.edu/academics/colleges-and-departments.html) <br/>
+
+
+
+### Montessori
+
+&emsp; **Children First** <br/>
+&emsp; &emsp; [Age Groups](https://www.childrenfirst.ch/index.php/age_groups/) <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
 &emsp; **** <br/>
 &emsp; &emsp; []() <br/>
 
@@ -254,5 +340,254 @@
 &emsp; **** <br/>
 &emsp; &emsp; []() <br/>
 
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
 
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
 
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
+
+&emsp; **** <br/>
+&emsp; &emsp; []() <br/>
